@@ -9,4 +9,4 @@ Since 2006 it is developed by Google. The original software is available as a co
 
 Input:
 This project is the implimentation of OCR on the following image:
-(https://github.com/suyesha07/Optical-Character-Reader/blob/main/2.jpg)
+![2.jpg](https://github.com/suyesha07/Optical-Character-Reader/blob/main/2.jpg)
